@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "normal": { "model": "nyaqumod:bluestone_block" },
+    "normal": { "model":  "nyaqumod:bluestone_infused_glass"},
+    "normal": { "model": "nyaqumod:TestGlass"}
+  }
+}

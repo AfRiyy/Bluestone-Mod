@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shapeless",
+
+  "ingredients":
+  [
+
+    {
+      "item": "nyaqumod:bluestone_block"
+    }
+  ],
+
+  "result":
+  {
+    "item": "nyaqumod:bluestone",
+    "count": 9
+  }
+}

@@ -1,0 +1,13 @@
+item.ruby.name=Ruby
+item.bluestone.name=Bluestone
+
+//blocks
+tile.bluestone_block.name=Block of Bluestone
+tile.bluestone_infused_glass.name=Bluestone Infused Glass
+tile.TestGlass.name = TestGlass
+tile.bluestone_ore.name=Bluestone Ore
+
+
+//Tab
+itemGroup.NyaqumodTab=Nyaqumod Tab
+

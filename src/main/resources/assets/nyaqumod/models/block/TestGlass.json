@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "nyaqumod:blocks/bluestone_infused_glass"
+  }
+}

@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+
+    "pattern":
+    [
+        "RRR",
+        "RRR",
+        "RRR"
+    ],
+
+    "key":
+    {
+        "R":
+        {
+            "item": "nyaqumod:bluestone"
+        }
+    },
+
+    "result":
+    {
+        "item": "nyaqumod:bluestone_block",
+        "count": 1
+    }
+}
